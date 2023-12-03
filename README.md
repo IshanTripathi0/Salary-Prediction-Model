@@ -19,7 +19,7 @@ This project focuses on predicting average salaries using a machine learning mod
 Before running the project, ensure you have the following installed:
 
 - Python
-- Required Python libraries (list dependencies here)
+- Required Python libraries (pandas, seaborn, numpy, pickle)
 
 ### Installation
 
